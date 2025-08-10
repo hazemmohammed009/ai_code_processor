@@ -31,5 +31,6 @@ module.exports = {
     ],
     '@typescript-eslint/no-explicit-any': 'warn',
     'no-console': 'warn',
+    'prefer-const': 'error'
   },
 }
