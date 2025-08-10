@@ -1,4 +1,3 @@
-// .eslintrc.cjs
 module.exports = {
   root: true,
   env: {
@@ -31,5 +30,6 @@ module.exports = {
       { argsIgnorePattern: '^_' }
     ],
     '@typescript-eslint/no-explicit-any': 'warn',
+    'no-console': 'warn',
   },
 }
